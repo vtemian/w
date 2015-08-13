@@ -7,10 +7,10 @@ fi
 
 cd setup
 
-./cleanup
-./add-repositories
-./dev
-./packages
-./virtualbox
-./vagrant
-./docker
+./cleanup.sh
+./add-repositories.sh
+./dev.sh
+./packages.sh
+./virtualbox.sh
+./vagrant.sh
+./docker.sh
