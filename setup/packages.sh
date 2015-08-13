@@ -24,6 +24,7 @@ sudo apt-get install --yes --force-yes \
   redshift \
   terminator \
   fonts-font-awesome \
+  keychain \
   xclip
 
 sudo apt-get clean

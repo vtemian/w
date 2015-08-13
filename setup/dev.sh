@@ -9,3 +9,5 @@ apt-get install --yes --force-yes \
   python-dev \
   libmysqlclient-dev \
   python-pip
+
+pip install virtualenvwrapper
