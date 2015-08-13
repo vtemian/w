@@ -25,6 +25,7 @@ sudo apt-get install --yes --force-yes \
   terminator \
   fonts-font-awesome \
   keychain \
+  chromium-browser \
   xclip
 
 sudo apt-get clean
